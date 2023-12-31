@@ -5,10 +5,6 @@
 #include <stdlib.h>
 
 #include "hidden_singles.h"
-#include "hidden_triples.h"
-#include "naked_pairs.h"
-#include "naked_triples.h"
-#include "utils.c"
 
 int main(int argc, char **argv)
 {
